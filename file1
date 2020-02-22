@@ -4,7 +4,11 @@ hey
 
 some randon commits 
 Commit2
+<<<<<<< HEAD
 commit3.4
+=======
+commit3.1
+>>>>>>> origin/local-jeeves
 commit4
 commit5
 commit6
